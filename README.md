@@ -16,7 +16,7 @@ Quantitative Analyst for Flutter UKI, based in Flutter's Dublin Office.
 
 ---
 
-Email: [kevin.devine@ppb.com](mailto:kevin.devine@ppb.com?subject=Test)<br/>
+Email: [kevin.devine@flutteruki.com](mailto:kevin.devine@flutteruki.com)<br/>
 Internal enquiries on:
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
@@ -35,6 +35,7 @@ Internal enquiries on:
 ![VSCODE](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
 ![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=flat&logo=rockylinux&logoColor=white)
 
 ---
